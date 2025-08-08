@@ -7,7 +7,7 @@ I’m actively seeking internship or part-time opportunities.
 
 ## 👨‍🎓 About Me 
 - [Little about me](#about-me)  
-- [More about me (personal website)](https://scbz.space)  
+- [More about me (personal website)](https://scbz.cn.eu.org)  
 - [CV]()    
 - [Selected Notes]()   
 
