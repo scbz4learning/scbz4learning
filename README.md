@@ -11,10 +11,14 @@ I’m actively seeking internship or part-time opportunities.
 - [CV]()    
 - [Selected Notes]()   
 
-## 📌 Pinned Repositories
+## 📂 My Repositories
 
-### [Rustlings]()
-### [TinyML]()
+### 📌 Pinned Repositories
+- AI Infrastructure: 
+  - [Notes for Infinitensor Code Camp](https://github.com/scbz4learning/LearningInfinitensor)
+  - [mini-torch (under construction)](https://github.com/scbz4learning/minitorch)
+- OS:
+  - [rCore (under construction)](https://github.com/scbz4learning/Learning-rCore)
 
 ---
 
