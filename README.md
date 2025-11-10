@@ -15,7 +15,7 @@ I’m actively seeking internship or part-time opportunities.
 
 ### 📌 Pinned Repositories
 - AI Infrastructure: 
-  - [Notes for Infinitensor Code Camp](https://github.com/scbz4learning/LearningInfinitensor)
+  - [Notes for Infinitensor Code Camp](https://github.com/scbz4learning/Learning-Infinitensor)
   - [mini-torch (under construction)](https://github.com/scbz4learning/minitorch)
 - OS:
   - [rCore (under construction)](https://github.com/scbz4learning/Learning-rCore)
